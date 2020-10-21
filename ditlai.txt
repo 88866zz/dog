@@ -1,0 +1,10 @@
+deadline nhóm 3:
+- Xuân Nam form quan lý lop:
+ + bao gom danh sách các lop, các chuc nang thêm sua xóa lop ( không can làm excel)
+ + khi kích dúp vào lop se xuat hien danh sách sinh viên o form qlsv.
+- Khánh form dang nhap:
+ + tao 2 tài khoan dang nhap ( chi xem - không có chuc nang sua xóa )
+ + 1 admin full quyen.
+
+
+**han : 5 - 11  . 
